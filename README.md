@@ -57,5 +57,5 @@ npm run dev
 
 ## Contributors
 
-- [@me](https://github.com/jcoh3n)
+- [@jcoh3n](https://github.com/jcoh3n)
 - [@iibabyy](https://github.com/iibabyy)
